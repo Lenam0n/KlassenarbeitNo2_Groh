@@ -8,7 +8,6 @@ public class harmonisch01 {
         double result;
 
         //Verarbeitung
-
         result = 2/(1 / x1 + 1 / x2);
 
         //Ausgabe
