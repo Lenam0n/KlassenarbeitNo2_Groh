@@ -7,6 +7,5 @@ Rechner 1 & 2 waren nicht erwartet und nur zur Debugging und Unterstützung zwec
    </tr>
 </table>
 
+[Aufgaben.pdf](https://github.com/Lenam0n/KlassenarbeitNo2_Groh/files/11019993/Aufgaben.pdf)
 
-
-[Aufgaben.pdf](https://github.com/Lenam0n/KlassenarbeitNo2_Groh/files/11019687/Aufgaben.pdf)
